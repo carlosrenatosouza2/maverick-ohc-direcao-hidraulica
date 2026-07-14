@@ -2,6 +2,8 @@
 
 Documentação da adaptação de direção hidráulica no meu Ford Maverick equipado com motor OHC 2.3.
 
+![Nome da Imagem](fotos/maverick.png)
+
 O objetivo deste projeto é construir uma direção hidráulica confiável, utilizando peças facilmente encontradas no mercado, documentando todas as etapas, dificuldades e soluções adotadas.
 
 ## Componentes
