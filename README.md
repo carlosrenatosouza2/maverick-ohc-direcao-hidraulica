@@ -38,17 +38,18 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 
 | Item | Modelo | Valor (R$) | Situação |
 |------|--------|-----------:|----------|
-| Caixa de direção | Chevrolet Omega/Suprema (recondicionada) | 1200,00 | ✅ Comprado |
+| Caixa de direção | Omega/Suprema (recondicionada) | 1200,00 | ✅ Comprado |
 | Revisão da caixa | Oficina especializada | XXX,XX | ⏳ Pendente |
 | Bomba hidráulica | Volkswagen Santana (nova) | 560,00X | ✅ Comprado |
-| Reservatório | A definir | — | ⏳ Pendente |
-| Suporte da bomba | A definir | — | ⏳ Pendente |
+| Reservatório | GM | — | ⏳ Pendente |
+| Suporte da bomba | Fabricação própria | — | ⏳ Pendente |
 | Polias | Fabricação própria | — | ⏳ Pendente |
-| Correias | A definir | — | ⏳ Pendente |
-| Mangueiras hidráulicas | Sob medida | — | ⏳ Pendente |
-| Conexões | A definir | — | ⏳ Pendente |
+| Correias |  | — | ⏳ Pendente |
+| Mangueiras hidráulicas |  | — | ⏳ Pendente |
+| Conexões |  | — | ⏳ Pendente |
 | Óleo da direção | ATF | — | ⏳ Pendente |
-| Parafusos e ferragens | Diversos | — | ⏳ Pendente |
+| Duplicar polias |  | — | ⏳ Pendente |
+| Alterar coluna de direção |  | — | ⏳ Pendente |
 
 ### Total investido
 
