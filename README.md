@@ -1,14 +1,35 @@
 # Direção Hidráulica no Ford Maverick OHC
 
-Minha experiência em adaptar direção hidráulica no meu Maverick 4cil.
+Documentação da adaptação de direção hidráulica no meu Ford Maverick equipado com motor OHC 2.3.
 
-Projeto de adaptação de direção hidráulica utilizando:
+O objetivo deste projeto é construir uma direção hidráulica confiável, utilizando peças facilmente encontradas no mercado, documentando todas as etapas, dificuldades e soluções adotadas.
 
-- Caixa de direção Chevrolet Omega
+## Componentes
+
+- Caixa de direção hidráulica Chevrolet Omega/Suprema
 - Bomba hidráulica Volkswagen Santana
-- Fabricação artesanal dos suportes
-- Projeto das polias
-- Instalação do ar condicionado
+- Reservatório (a definir)
+- Mangueiras sob medida
+- Suportes fabricados artesanalmente
+- Polias adaptadas
 
-Objetivo:
-Construir uma adaptação confiável e documentar todo o processo.
+## Objetivos do projeto
+
+- Compartilhar toda a adaptação;
+- Registrar as peças utilizadas;
+- Documentar medidas e modificações;
+- Facilitar futuras manutenções;
+- Servir de referência para outros proprietários de Maverick OHC.
+
+## Situação atual
+
+- ✅ Caixa de direção adquirida
+- ✅ Bomba hidráulica adquirida
+- ⏳ Compra do reservatório
+- ⏳ Projeto do suporte da bomba
+- ⏳ Projeto das polias
+- ⏳ Instalação
+
+---
+
+**Última atualização:** Julho/2026
