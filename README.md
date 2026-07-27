@@ -29,12 +29,16 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 
 ## Situação atual
 
+- Compra das peças:
 - ✅ Caixa de direção adquirida
 - ✅ Bomba hidráulica adquirida
-- ⏳ Compra do reservatório
-- ⏳ Projeto do suporte da bomba
-- ⏳ Projeto das polias
-- ⏳ Instalação
+- ✅ Polias duplas bomba d'agua e vira brquim 
+- ⏳ Reservatório
+- ⏳ Projetar o suporte da bomba
+- ⏳ Projetar as correias (AC + DH)
+- ⏳ Alterar coluna de direção
+- ⏳ Mangueiras
+
 
 ---
 
@@ -91,7 +95,6 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 | Mangueiras hidráulicas | — | — | ⏳ Pendente |
 | Conexões | — | — | ⏳ Pendente |
 | Óleo da direção | ATF | — | ⏳ Pendente |
-| Duplicar polias | — | — | ⏳ Pendente |
 | Alterar coluna de direção | — | — | ⏳ Pendente |
 
 ### Total investido
