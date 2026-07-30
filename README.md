@@ -88,7 +88,7 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 | Bomba hidráulica | Volkswagen Santana (nova) | 560,00 | ✅ Comprado |
 | Polia dupla da bomba d'dagua | grupo de peças 4x4 | 230,00 | ✅ Comprado |
 | Polia dupla do vira brequim | ML | 399,00 | ✅ Comprado |
-| Braço pitman do omega | -- | 129,00 | ✅ Comprado |
+| Braço pitman do omega | ML | 129,00 | ✅ Comprado |
 | Reservatório | GM | — | ⏳ Pendente |
 | Suporte da bomba | Fabricação própria | — | ⏳ Pendente |
 | Revisão da caixa | Oficina especializada | XXX,XX | ⏳ Pendente |
