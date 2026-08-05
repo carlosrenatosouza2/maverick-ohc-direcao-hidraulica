@@ -46,6 +46,8 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 
 > Registro cronológico do andamento do projeto. Cada entrada nova entra no topo desta seção.
 
+### Agosto/2026
+
 ### Julho/2026 — Início do projeto
 - Início da documentação do projeto
 - Compra da caixa de direção hidráulica (Omega/Suprema, recondicionada)
