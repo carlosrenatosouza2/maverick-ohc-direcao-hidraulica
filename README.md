@@ -32,7 +32,8 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 - Compra das peças:
 - ✅ Caixa de direção adquirida
 - ✅ Bomba hidráulica adquirida
-- ✅ Polias duplas bomba d'agua e vira brquim 
+- ✅ Polias duplas bomba d'agua e vira brequim
+- ✅ Polia da bomba hidráulica 
 - ⏳ Reservatório
 - ⏳ Projetar o suporte da bomba
 - ⏳ Projetar as correias (AC + DH)
@@ -47,6 +48,7 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 > Registro cronológico do andamento do projeto. Cada entrada nova entra no topo desta seção.
 
 ### Agosto/2026
+- Compra da polia da bomba hidráulica do santana (que não veio com a bomba)
 
 ### Julho/2026 — Início do projeto
 - Início da documentação do projeto
@@ -72,11 +74,11 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 ## Componentes
 
 - Caixa de direção hidráulica Chevrolet Omega/Suprema
-- Bomba hidráulica Volkswagen Santana
+- Bomba hidráulica Volkswagen Santana completa
 - Reservatório (a definir)
 - Mangueiras sob medida
 - Suportes fabricados artesanalmente
-- Polias adaptadas
+- Polias duplas (ou da bomba d'agua ou do vira brequim)
 
 ---
 
@@ -91,6 +93,7 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 | Polia dupla da bomba d'dagua | grupo de peças 4x4 | 230,00 | ✅ Comprado |
 | Polia dupla do vira brequim | ML | 399,00 | ✅ Comprado |
 | Braço pitman do omega | ML | 129,00 | ✅ Comprado |
+| Polia da bomba hidráulica do santana | ML | 65,00 | ✅ Comprado |
 | Reservatório | GM | — | ⏳ Pendente |
 | Suporte da bomba | Fabricação própria | — | ⏳ Pendente |
 | Revisão da caixa | Oficina especializada | XXX,XX | ⏳ Pendente |
@@ -102,7 +105,7 @@ O objetivo deste projeto é construir uma direção hidráulica confiável, util
 
 ### Total investido
 
-**R$ 2.518,00**
+**R$ 2.583,00**
 
 ---
 
